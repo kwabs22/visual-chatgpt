@@ -1,3 +1,7 @@
+https://github.com/facebookresearch/segment-anything
+
+Headings are the Lines to use
+
 Segment Anything
 Meta AI Research, FAIR
 
@@ -57,9 +61,9 @@ from segment_anything import sam_model_registry
 sam = sam_model_registry["<name>"](checkpoint="<path/to/checkpoint>")
 # Click the links below to download the checkpoint for the corresponding model name. The default model in bold can also be instantiated with build_sam, as in the examples in Getting Started.
 
-default or vit_h: ViT-H SAM model.
-vit_l: ViT-L SAM model.
-vit_b: ViT-B SAM model.
+# default or vit_h: ViT-H SAM model.
+# vit_l: ViT-L SAM model.
+# vit_b: ViT-B SAM model.
 License
 The model is licensed under the Apache 2.0 license.
 
