@@ -2,6 +2,14 @@
 
 Coming Soon ... (When I understand this repo)
 
+# SAM repo Navigation
+
+init calls buld sam then predictor then mask generator --> Is there captioning in this model and if not how do we integrate
+https://github.com/facebookresearch/segment-anything/blob/aac76a1fb03cf90dc7cb2ad481d511642e51aeba/segment_anything/__init__.py#L7
+
+model types
+https://github.com/facebookresearch/segment-anything/blob/aac76a1fb03cf90dc7cb2ad481d511642e51aeba/segment_anything/build_sam.py#L47
+
 # SAM Model Use Examples?
 
 SAM Predictor Example in colab
