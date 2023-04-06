@@ -7,9 +7,10 @@ Coming Soon ... (When I understand this repo)
 init calls buld sam then predictor then mask generator --> Is there captioning in this model and if not how do we integrate
 https://github.com/facebookresearch/segment-anything/blob/aac76a1fb03cf90dc7cb2ad481d511642e51aeba/segment_anything/__init__.py#L7
 
-# Predict function in predictor
+# Masks are not semantically labelled as far as I can tell which means I am missing something?
+https://segment-anything.com/dataset/index.html
 
-what does masks for given input mean?
+# Predict function in predictor
 https://github.com/facebookresearch/segment-anything/blob/aac76a1fb03cf90dc7cb2ad481d511642e51aeba/segment_anything/predictor.py#L102
 
 model types
