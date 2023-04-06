@@ -16,3 +16,6 @@ https://github.com/pharmapsychotic/clip-interrogator/blob/f4429b4c9d0044d46d8114
 
 Transformers autoproccesor?
 https://github.com/pharmapsychotic/clip-interrogator/blob/f4429b4c9d0044d46d811498e635317d262a2389/clip_interrogator/clip_interrogator.py#L85
+
+Caption Models
+https://github.com/pharmapsychotic/clip-interrogator/blob/f4429b4c9d0044d46d811498e635317d262a2389/clip_interrogator/clip_interrogator.py#L18
